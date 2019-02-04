@@ -39,12 +39,12 @@ You will take a baseline installation of a Linux distribution on a virtual machi
 
   - At first I created a LightSail Ubuntu 16.04 instance on AWS.
 
-  ![](/images/Screen Shot 2019-02-04 at 17.19.49.png?raw=true)
+  ![](https://raw.githubusercontent.com/pynoor/linux-server/master/images/Screen%20Shot%202019-02-04%20at%2017.19.49.png)
 
   - I then went on and created a static IP address for it, which is now 52.57.204.122
   - Next up was the firewall: I wanted to be able to access the server on port 2200, so I  manually added it to the firewall settings on the aws interface...
 
-  ![](/images/Screen Shot 2019-02-04 at 17.58.09.png?raw=true)
+  ![](https://raw.githubusercontent.com/pynoor/linux-server/master/images/Screen%20Shot%202019-02-04%20at%2017.58.09.png)
 
   ... and edited the sshd config file.
 
@@ -108,7 +108,7 @@ You will take a baseline installation of a Linux distribution on a virtual machi
 
 
     -> updating the oath credentials as such:
-    ![](/images/Screen Shot 2019-02-04 at 20.12.13.png?raw=true)
+    ![](https://raw.githubusercontent.com/pynoor/linux-server/master/images/Screen%20Shot%202019-02-04%20at%2020.12.13.png)
 
 
     -> downloading the new client_secret to the server and replacing it with the old one
