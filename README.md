@@ -51,10 +51,12 @@ You will take a baseline installation of a Linux distribution on a virtual machi
   - Once I had access from the terminal to the server, I got to work:
 
     -> udating the program source list
+
         $ sudo apt-get update
 
 
     -> upgrading existing packages
+
         $ sudo apt-get upgrade
 
 
