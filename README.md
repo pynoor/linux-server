@@ -96,8 +96,8 @@ You will take a baseline installation of a Linux distribution on a virtual machi
 
     To see the content of these filese execute:
 
-    $ sudo cat /var/www/catalog/project.wsgi
-    $ sudo cat /etc/apache2/sites-available/catalog.conf
+        $ sudo cat /var/www/catalog/project.wsgi
+        $ sudo cat /etc/apache2/sites-available/catalog.conf
 
 
     -> creating a catalog database with user "catalog":
